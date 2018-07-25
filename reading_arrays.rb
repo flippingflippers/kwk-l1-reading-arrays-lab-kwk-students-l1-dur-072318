@@ -28,6 +28,8 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
+  new_names = []
+  new_names[0]=STUDENT_NAMES[0]
   return STUDENT_NAMES[0:2]
 end
 
