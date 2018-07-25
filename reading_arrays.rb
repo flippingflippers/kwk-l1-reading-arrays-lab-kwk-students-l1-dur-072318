@@ -30,6 +30,7 @@ end
 def first_second_and_third_students
   return STUDENT_NAMES (["Adele","Beyoncé","Cardi B"])
 end
+
 first_student_by_index
 fourth_student_by_index
 last_student_by_index
