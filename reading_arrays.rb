@@ -30,7 +30,9 @@ end
 def first_second_and_third_students
   new_names = []
   new_names[0]=STUDENT_NAMES[0]
-  return STUDENT_NAMES[0:2]
+  new_names[1]=STUDENT_NAMES[1]
+  new_names[2]=STUDENT_NAMES[2]
+  return new_names
 end
 
 first_student_by_index
